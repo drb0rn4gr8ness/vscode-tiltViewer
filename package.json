@@ -2,6 +2,7 @@
   "name": "tiltviewer",
   "displayName": "TiltViewer",
   "description": "an extension that will allow spinning up services with tilt and monitoring in VSCode",
+  "repository": "https://github.com/drb0rn4gr8ness/vscode-tiltViewer",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
